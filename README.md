@@ -6,7 +6,7 @@
 
 [Sign-up form](https://todotirreno.github.io/Sign-up-form/): Sign-up form using vanilla CSS validation
 
-[LIVE DEMO](https://todotirreno.github.io/dashboard/): Admin Dashboard layout using CSS Grid
+[Admin Dashboard](https://todotirreno.github.io/dashboard/): Admin Dashboard layout using CSS Grid
 
 <!---
 todotirreno/todotirreno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
